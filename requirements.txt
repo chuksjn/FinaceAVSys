@@ -11,7 +11,10 @@ frozendict==2.4.4
 greenlet==3.0.3
 html5lib==1.1
 idna==3.7
+<<<<<<< HEAD
 iniconfig==2.0.0
+=======
+>>>>>>> fe37c829647e0b2685bb64d2d81d59c5f1bb031a
 itsdangerous==2.2.0
 Jinja2==3.1.4
 kiwisolver==1.4.5
@@ -20,15 +23,23 @@ MarkupSafe==2.1.5
 matplotlib==3.9.1
 multitasking==0.0.11
 numpy==2.0.1
+<<<<<<< HEAD
 packaging==23.1
+=======
+packaging==24.1
+>>>>>>> fe37c829647e0b2685bb64d2d81d59c5f1bb031a
 pandas==2.2.2
 peewee==3.17.6
 pillow==10.4.0
 platformdirs==4.2.2
 plotly==5.23.0
+<<<<<<< HEAD
 pluggy==1.2.0
 pyparsing==3.1.2
 pytest==7.4.0
+=======
+pyparsing==3.1.2
+>>>>>>> fe37c829647e0b2685bb64d2d81d59c5f1bb031a
 python-dateutil==2.9.0.post0
 pytz==2024.1
 requests==2.32.3
